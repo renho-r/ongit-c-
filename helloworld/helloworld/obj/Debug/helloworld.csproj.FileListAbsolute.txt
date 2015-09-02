@@ -1,0 +1,6 @@
+E:\renho\ongit-c#\helloworld\helloworld\bin\Debug\helloworld.exe.config
+E:\renho\ongit-c#\helloworld\helloworld\bin\Debug\helloworld.exe
+E:\renho\ongit-c#\helloworld\helloworld\bin\Debug\helloworld.pdb
+E:\renho\ongit-c#\helloworld\helloworld\obj\Debug\helloworld.csprojResolveAssemblyReference.cache
+E:\renho\ongit-c#\helloworld\helloworld\obj\Debug\helloworld.exe
+E:\renho\ongit-c#\helloworld\helloworld\obj\Debug\helloworld.pdb

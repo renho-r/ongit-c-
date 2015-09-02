@@ -1,0 +1,14 @@
+E:\renho\ongit-c#\wpf\wpf\bin\Debug\wpf.exe.config
+E:\renho\ongit-c#\wpf\wpf\obj\Debug\wpf.csprojResolveAssemblyReference.cache
+E:\renho\ongit-c#\wpf\wpf\obj\Debug\MainWindow.g.cs
+E:\renho\ongit-c#\wpf\wpf\obj\Debug\App.g.cs
+E:\renho\ongit-c#\wpf\wpf\obj\Debug\wpf_MarkupCompile.cache
+E:\renho\ongit-c#\wpf\wpf\obj\Debug\wpf_MarkupCompile.lref
+E:\renho\ongit-c#\wpf\wpf\bin\Debug\wpf.exe
+E:\renho\ongit-c#\wpf\wpf\bin\Debug\wpf.pdb
+E:\renho\ongit-c#\wpf\wpf\obj\Debug\MainWindow.baml
+E:\renho\ongit-c#\wpf\wpf\obj\Debug\wpf.g.resources
+E:\renho\ongit-c#\wpf\wpf\obj\Debug\wpf.Properties.Resources.resources
+E:\renho\ongit-c#\wpf\wpf\obj\Debug\wpf.csproj.GenerateResource.Cache
+E:\renho\ongit-c#\wpf\wpf\obj\Debug\wpf.exe
+E:\renho\ongit-c#\wpf\wpf\obj\Debug\wpf.pdb

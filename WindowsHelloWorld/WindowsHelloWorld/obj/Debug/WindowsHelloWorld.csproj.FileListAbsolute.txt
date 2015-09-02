@@ -1,0 +1,8 @@
+E:\renho\ongit-c#\WindowsHelloWorld\WindowsHelloWorld\bin\Debug\WindowsHelloWorld.exe.config
+E:\renho\ongit-c#\WindowsHelloWorld\WindowsHelloWorld\bin\Debug\WindowsHelloWorld.exe
+E:\renho\ongit-c#\WindowsHelloWorld\WindowsHelloWorld\bin\Debug\WindowsHelloWorld.pdb
+E:\renho\ongit-c#\WindowsHelloWorld\WindowsHelloWorld\obj\Debug\WindowsHelloWorld.csprojResolveAssemblyReference.cache
+E:\renho\ongit-c#\WindowsHelloWorld\WindowsHelloWorld\obj\Debug\WindowsHelloWorld.Properties.Resources.resources
+E:\renho\ongit-c#\WindowsHelloWorld\WindowsHelloWorld\obj\Debug\WindowsHelloWorld.csproj.GenerateResource.Cache
+E:\renho\ongit-c#\WindowsHelloWorld\WindowsHelloWorld\obj\Debug\WindowsHelloWorld.exe
+E:\renho\ongit-c#\WindowsHelloWorld\WindowsHelloWorld\obj\Debug\WindowsHelloWorld.pdb
