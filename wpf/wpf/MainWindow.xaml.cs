@@ -24,7 +24,7 @@ namespace wpf
         public MainWindow()
         {
             InitializeComponent();
-            textBox.SetBinding(TextBox.TextProperty, new Binding(".") { Source = tValue });
+            textBox.SetBinding(TextBox.TextProperty, new Binding(".") { Source = tValue, Mode = BindingMode.TwoWay, UpdateSourceTrigger = UpdateSourceTrigger.PropertyChanged});
         }
 
         private void button1_Click(object sender, RoutedEventArgs e)
