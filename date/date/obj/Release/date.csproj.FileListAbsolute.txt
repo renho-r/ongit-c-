@@ -1,0 +1,13 @@
+E:\renho\workspace\ongit-c#\date\date\bin\Release\date.exe.config
+E:\renho\workspace\ongit-c#\date\date\bin\Release\date.exe
+E:\renho\workspace\ongit-c#\date\date\bin\Release\date.pdb
+E:\renho\workspace\ongit-c#\date\date\obj\Release\MainWindow.g.cs
+E:\renho\workspace\ongit-c#\date\date\obj\Release\App.g.cs
+E:\renho\workspace\ongit-c#\date\date\obj\Release\date_MarkupCompile.cache
+E:\renho\workspace\ongit-c#\date\date\obj\Release\date_MarkupCompile.lref
+E:\renho\workspace\ongit-c#\date\date\obj\Release\MainWindow.baml
+E:\renho\workspace\ongit-c#\date\date\obj\Release\date.g.resources
+E:\renho\workspace\ongit-c#\date\date\obj\Release\date.Properties.Resources.resources
+E:\renho\workspace\ongit-c#\date\date\obj\Release\date.csproj.GenerateResource.Cache
+E:\renho\workspace\ongit-c#\date\date\obj\Release\date.exe
+E:\renho\workspace\ongit-c#\date\date\obj\Release\date.pdb

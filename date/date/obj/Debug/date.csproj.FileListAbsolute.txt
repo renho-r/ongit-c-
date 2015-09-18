@@ -1,0 +1,13 @@
+E:\renho\workspace\ongit-c#\date\date\bin\Debug\date.exe.config
+E:\renho\workspace\ongit-c#\date\date\bin\Debug\date.exe
+E:\renho\workspace\ongit-c#\date\date\bin\Debug\date.pdb
+E:\renho\workspace\ongit-c#\date\date\obj\Debug\MainWindow.g.cs
+E:\renho\workspace\ongit-c#\date\date\obj\Debug\App.g.cs
+E:\renho\workspace\ongit-c#\date\date\obj\Debug\date_MarkupCompile.cache
+E:\renho\workspace\ongit-c#\date\date\obj\Debug\date_MarkupCompile.lref
+E:\renho\workspace\ongit-c#\date\date\obj\Debug\MainWindow.baml
+E:\renho\workspace\ongit-c#\date\date\obj\Debug\date.g.resources
+E:\renho\workspace\ongit-c#\date\date\obj\Debug\date.Properties.Resources.resources
+E:\renho\workspace\ongit-c#\date\date\obj\Debug\date.csproj.GenerateResource.Cache
+E:\renho\workspace\ongit-c#\date\date\obj\Debug\date.exe
+E:\renho\workspace\ongit-c#\date\date\obj\Debug\date.pdb
