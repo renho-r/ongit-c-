@@ -38,8 +38,25 @@ namespace date
 
         private void showTime(object sender, RoutedEventArgs e)
         {
-            DateTime dt = new DateTime(1444444444);
-            data.StringData = dt.ToString();
+            if(null == data.NumData || "".Equals(data.NumData))
+            {
+                MessageBox.Show("请输入UNIX时间戳!");
+                return;
+            }
+            DateTime dt = new DateTime(1970, 1, 1, 0, 0, 0, 0);
+            try
+            {
+                dt = dt.AddMilliseconds(long.Parse(data.NumData)).ToLocalTime();
+                data.StringData = dt.ToString("yyyy-MM-dd HH:mm:ss.fff");
+            }
+            catch (ArgumentOutOfRangeException aoore) 
+            {
+                MessageBox.Show("UNIX时间戳超出范围!");
+                return;
+            }
+        }
+        private void exit(object sender, RoutedEventArgs e){
+            Application.Current.MainWindow.Close();
         }
     }
 

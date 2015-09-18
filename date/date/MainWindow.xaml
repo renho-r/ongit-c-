@@ -5,12 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:date"
         mc:Ignorable="d"
-        Title="MainWindow" Height="530" Width="500">
+        Title="UNIX时间戳转换时间@renho" Height="110" Width="500"
+        ResizeMode="CanMinimize">
     <Grid Margin="0,0,0,0" Height="100">
-        <WrapPanel HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="480" Margin="10, 10">
-            <TextBox x:Name="textBox" Height="20" TextWrapping="Wrap" Width="350"/>
-            <Button x:Name="button" Content="Button" Width="100" Click="showTime"/>
+        <WrapPanel HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="480" Margin="10, 10">
+            <TextBox x:Name="textBox" Height="20" TextWrapping="Wrap" Width="350" Margin="0,0,10,0"/>
+            <Button x:Name="button" Content="确定" Width="100" Click="showTime"/>
         </WrapPanel>
-        <TextBox x:Name="textBoxShow" HorizontalAlignment="Left" Height="20" TextWrapping="Wrap" Width="350" Margin="10, 10"/>
+        <WrapPanel HorizontalAlignment="Left" Height="30" Width="480" Margin="10, 10">
+            <TextBox x:Name="textBoxShow" Height="20" TextWrapping="Wrap" Width="350" Margin="0,0,10,0"/>
+            <Button x:Name="buttonExit" Content="退出" Width="100" Click="exit"/>
+        </WrapPanel>
     </Grid>
 </Window>
